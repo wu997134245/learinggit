@@ -5,3 +5,4 @@ for i in ran_num:
     print i
 
 print 'hello'
+Git has a mutable index called stage.
